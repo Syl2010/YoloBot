@@ -1,1 +1,1 @@
-Ajoute uniquement des commandes prévues pour le fun.
+Ajoute des commandes et fonctionnalités uniquement prévue pour le fun.
