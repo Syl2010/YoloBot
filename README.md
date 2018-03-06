@@ -1,1 +1,1 @@
-Ajoute des commandes et fonctionnalités uniquement prévue pour le fun.
+Projet déplacé ici : https://git.syl2010.fr
